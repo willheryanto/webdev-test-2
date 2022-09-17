@@ -10,7 +10,7 @@ const Home: NextPage = () => {
         <Heading>We read a book for you to improve your lifestyle</Heading>
         <Description>
           As you know, reading is one of the habits that many leadership have. We will read books for you in summarized manner, everyday, so
-          you can absorb many information as much as possible.
+          you can absorb many information as much as possible!
         </Description>
       </Contents>
       <ImageContainer>
