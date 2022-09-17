@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Sample
 
-[sample.png](public/sample.png)
+![sample.png](public/sample.png)
 
 ## Getting Started
 
